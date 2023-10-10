@@ -1,0 +1,49 @@
+body {
+  background-color: #C3423F;
+}
+body #chrono {
+  background-color: #9BC53D;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  border: solid 2px;
+  border-radius: 2.5rem;
+}
+body #chrono h1 {
+  text-transform: uppercase;
+  padding: 1rem 1rem 0 1rem;
+  font-weight: bold;
+  background-color: #9bc53d;
+  border-radius: 1rem;
+  -webkit-text-decoration: underline 3px;
+          text-decoration: underline 3px;
+}
+body #chrono #start {
+  text-transform: uppercase;
+  padding: 1rem;
+  font-weight: bold;
+  margin: 0.5rem;
+  border-radius: 1rem;
+  border: solid;
+  cursor: pointer;
+}
+body #chrono #pause {
+  text-transform: uppercase;
+  padding: 1rem;
+  font-weight: bold;
+  margin: 0.5rem;
+  border-radius: 1rem;
+  border: solid;
+  cursor: pointer;
+}
+body #chrono #stoop {
+  text-transform: uppercase;
+  padding: 1rem;
+  font-weight: bold;
+  margin: 0.5rem;
+  border-radius: 1rem;
+  border: solid;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
